@@ -11,20 +11,25 @@
 
 <h4 align="center">Generating a random value</h4>
 <p align="justify">Generated a single random value in a range of values, it can be seen that the graphic made is uniform. Which means that in this range of values it is very unpredictable to guess the value to be generated, this because the graphic can have values in any value of the x-axis, and looking at the graph below you can see this behavior.</p>
-<img src="https://github.com/RobertoCarlosMedina/random-question/blob/main/images/1random.png" alt="Imagem de grafico"/>
+<div align="center">
+  <img src="https://github.com/RobertoCarlosMedina/random-question/blob/main/images/1random.png" alt="Imagem de grafico"/>
+</div>
 
 <h4 align="center">Generating a value from the sum of two random</h4>
 <p align="justify">Generating a value from the sum of two random numbers in a range of values the graphic takes an almost rectangular structure, with a slightly higher concentration in the center of it.</p>
-<img align="center" src="https://github.com/RobertoCarlosMedina/random-question/blob/main/images/2random.png" alt="Imagem de grafico"/>
+<div align="center">
+  <img src="https://github.com/RobertoCarlosMedina/random-question/blob/main/images/2random.png" alt="Imagem de grafico"/>
+</div>
 
 <h4 align="center">Generating a value from the sum of eight random</h4>
-<p align="justify">Testing for the sum of eight random numbers in a range of values the graphic takes almost gaussian form, with a much higher concentration in the center of it, making it impossible to have values at the extremes as shown in the graphic.</p>
+<p align="justify">Testing for the sum of eight random numbers in a range of values the graphic takes almost gaussian form, with a higher concentration in the center of it, making it impossible to have values at the extremes as shown in the graphic.</p>
 <img align="center" src="https://github.com/RobertoCarlosMedina/random-question/blob/main/images/8random.png" alt="Imagem de grafico"/>
 
 <h4 align="center" align="center">Generating a value from the sum of thirty-two random</h4>
-
 <p align="justify">The behavior in the sum of thirty-two random numbers is the same only with much higher concentration the tenter to the center, as shown in the graphic below.</p>
-<img align="center" src="https://github.com/RobertoCarlosMedina/random-question/blob/main/images/32random.png" alt="Imagem de grafico"/>
+<div align="center">
+  <img align="center" src="https://github.com/RobertoCarlosMedina/random-question/blob/main/images/32random.png" alt="Imagem de grafico"/>
+</div>
 
 <h4 align="center">Conclusion</h4>
 <p align="justify">...</p>
