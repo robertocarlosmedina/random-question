@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">Solution to the problem</h3>
-<p align="justify">To solve this problem, I created a program using the Pygame library (whit Python). Basically, what I did was just a window where there is a graphics that will be drawn by the random values generated. When one of the values is generated, an item is added to the rectangle related to the value, and the more value is generated more items are added to the rectangle anyway, increasing its height.</p>
+<p align="justify">To solve this problem, I created a program using the Pygame library (whit Python). Basically, what I did was just a window where there is a graphics that will be drawn by the random values generated. When one of the values is generated, an item is added to the rectangle related to the value, and the more, this value is generated, more items are added to the rectangle and increasing its height.</p>
 
 <h4 align="center">Generating a value from the sum of two random</h4>
 <p align="justify"></p>
