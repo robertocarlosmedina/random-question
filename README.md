@@ -10,6 +10,7 @@
 <p align="justify">To solve this problem, I created a program using the Pygame library (whit Python). Basically, what I did was just a window where there is a graphics that will be drawn by the random values generated. When one of the values is generated, an item is added to the rectangle related to the value, and the more, this value is generated, more items are added to the rectangle and increasing its height.</p>
 
 <h4 align="center">Generating a value from the sum of two random</h4>
+<img src="https://github.com/RobertoCarlosMedina/random-question/blob/main/images/2random.png" alt="Imagem de grafico"/>
 <p align="justify"></p>
 <h4 align="center">Generating a value from the sum of eight random</h4>
 <p align="justify"></p>
