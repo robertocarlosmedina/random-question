@@ -93,15 +93,15 @@ def keyboardControls():
     y = 50
     # bliting the text on the screen line by line
     for text in infoText:
-        size = pygame.font.Font.size(font_2,text)
+        # size = pygame.font.Font.size(font_2,text)
         line = font_2.render(text, True, (255, 255,255))
         screen.blit(line, (20, y))
         y+=15
 
-# Clock
 clock = pygame.time.Clock()
 
 while keep_going:
+
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             exit()
